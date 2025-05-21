@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="TEPOXMANANIJ" DATE="2018-02-19T01:47:30-05:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///F:/Cuetzalan Nahuatl/Tobackup/Recordings-Transcripciones-Transcriptions-only-new/Material-culture/3/Tzina_MatCl_AND308_kali-komaait_2010-07-14-b.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Tzina_MatCl_AND308_kali-komaait_2010-07-14-b.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f688ed59-f145-459c-8746-d12906e44526</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">112</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="7429"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="7429"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="7429"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="7429"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11007"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="11007"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="16601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="16601"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="20477"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="20477"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="23878"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="23878"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="28196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="28196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="35565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="35565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="38743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="38743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="44868"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="44868"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="47984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="47984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="54691"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="54691"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="57649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="57649"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="67493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="67493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="67493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="71040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="71040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="71040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="77056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="77056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="77056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="81431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="81431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="81431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="81431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="88493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="88493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="88493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="90665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="90665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="90665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="90665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="94056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="94056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="94056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="94056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="99556"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="99556"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="99556"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="102196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="102196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="102196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="108915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="108915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="108915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="111364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="111364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="111364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="115821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="115821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="115821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="123462"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="123462"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="123462"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="128728"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="128728"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="134150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="134150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="138947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="138947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="141712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="141712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="147338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="147338"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="150432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="150432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="156119"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="156119"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="159540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="159540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="162665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="162665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="165922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="165922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="170219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="170219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="172921"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="172921"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="176344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="176344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="181032"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="181032"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="184376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="184376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="187642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="187642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="192892"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="192892"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="196821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="196821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="200290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="200290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="200290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="202650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="202650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="202650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="207540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="207540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="207540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="213883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="213883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="213883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="218555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="218555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="222180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="222180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="225773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="225773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="229148"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="229148"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="235320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="235320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="239351"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="239351"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="242320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="242320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="246289"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="246289"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="249242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="249242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="254398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="254398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="258053"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="258053"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="262242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="262242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="265773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="265773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="268414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="268414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="272632"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="272632"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="275257"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="275257"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="275257"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="275257"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="278304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="278304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="278304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="278304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="278304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="281945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="281945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="281945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="285086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="285086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="287057"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="287057"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="292539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="292539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="296102"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="296102"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="301383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="301383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="304758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="304758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="311930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="311930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="311930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="320758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="320758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="320758"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="324255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="324255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="324255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="324255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="326024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="326024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="326024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="326024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="332055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="332055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="332055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="335430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="335430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="339930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="339930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="344883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="344883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="344883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="350674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="350674"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="SectionType" TIER_ID="Sections">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a0" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts201">
+                <ANNOTATION_VALUE>report</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="UtteranceType" PARTICIPANT="Amelia Domínguez Alcántara" TIER_ID="Amelia Domínguez Alcántara">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Tehwatsi:n tikihtowa ke, ne:n, koma:it no: kikwiah ika se: kipantsakwaya, ne:n, n' kali.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Tik....</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>Ka:ni ne:n semi mochi:wa yo:n koma:ikowit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Xo:chiowa, kipia i..., teyowa *o** ke:niwki ne:n ...,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>¿Wa:n ixo:chio?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>A:xka:n komo se: kite:mo:ti se: kahsis ok.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>Onkak ok kowmeh.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>¿Okseki kowit ok *o** xiwit tein teh tiki:xmattos ke kwali no: ika se: kichihchi:waya n' kalmeh, ika se: kimpantsakwaya?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>Ika yo:n e:yi taman sah komekat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts181">
+                <ANNOTATION_VALUE>Yehwa sah, ¿a:mo teh tikpia ok toni 'te:chtapowi:s de i:n, de n' kalmeh"?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>Yehwa sah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>Pos miak tasohka:matik, sepa yankwiká: ne:chilwi moto:ka:y wa:n ka:ni tinemi, ka:nachi xiwit tikpia.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>Mm, miak tasohka:matik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="UtteranceType" PARTICIPANT="Anastacio Nicolás Damián" TIER_ID="Anastacio Nicolás Damián">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Ke:mah no:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>A: no:, no ki..., no:, no: kikwiah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Pos kachi *más** taxi:kowa neh nikmattok, *más** taxi:kowa, ne:n, anayxiwit.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>N' koma:it no:, pero semi kana:wak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>Wa:n ne:n anayxiwit *siempre** kachi tila:wak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Entó:s yo:n moneki mah se: kita:lili *más** tila:wak, mm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>Pero ne:n, yehwa ne:n koma:it no:, no: kwaltsi:n sayoh ke niman te..., niman xi:ni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Entó:s niman takoyo:ni, moneki *más** tila:wak ne:.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>Wa:n nihjó:n mochi:wa ne:n kowmeh ihkó:n, ihkó:n tohtoma:wak wa:n mehmela:wak, wehkapan.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Yo:n kachi owih para se: kiteki seki.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>Wa:n anayxiwit yeh a:mo, yeh achi *chaparritos** ne:n kowtsitsi:n, we:noh, *según** mahma:ta:lpan wa:n</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>pos nihjó:n a:mo semi wehkapan, kwali se: kiteki.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Yehwa yo:n koma:it nihjó:n tikiliah, nextik ne:n xiwit koma:it. Nextik, mm. Yehwa nihjó:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>A:, ihkó:n koma:ikowit ompa ne:wí:n, nikan kowtah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Kipia, yo:n koma:it kipia iteyo *cuando** ti:ninehjó:n achi tihti:ltik ke:meh yo:n kapolin.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Tihti:ltik n' iteyo.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>Ixo:chio chi:chi:ltik.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Ke:mah, chi:chi:ltik ixo:chio wa:n iteyo tihti:ltik, ke:ma:h.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Pos ekintsi:n a:mo tei, yo:n no: mochi:wa *por tiempo**, de i:n mayo tipano:keh onkaya.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>A:, kowmeh onkakeh, mm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>Pos neh nikitak ompa ne: a:nal seki *solamente** yo:n n' pesma.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>Pesma no: kwaltia. Se: kita:lilia paniá:n tila:wak kwaltsi:n, ihkó:n, ihkó:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>No: 'chihchi:wayah kaltsi:n no:, tikta:lia:yah pero kowtsitsi:n ihko:ni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>Nika:n i:n kale:waltsitsi:n, nika:n i:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>Wa:n sayoh se: tikta:lia:yah nika:n ompa kwa:yetoya ne:n kowtsitsi:n ihkó:n, ihkó:n,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>ke:mah ompa tikta:lia:yah ya pesma.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>Pesma ihkó:n *hasta** ne: tamia, *hasta** ne:, ihkó:n tikta:lia:yah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>Pero no: tikilpihtia:yah ika ne:n komekat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>No: tikilpihtia:yah, ihkó:n, ihkó:n, ihko:ni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>Ihkó:n tikwi:pa:ntia:yah *hasta** temowaya nihjó:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>Tikta:ta:lia:yah ihkwí:n, ihkwí:n e:e:witiká:.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>e:e:witiká: tikta:lia:yah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>E:e:witiká: ihkwí:n ne:n pesma ihkó:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>Wa:n nika:n tikta:lia:yah se: kowtsí:n ompa tikwa:ta:lia:yah kale:wal ihkó:n</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>wa:n ke:mah *hasta** nika:n ihkó:n tikwi:pa:ntia:yah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>*hasta ki:saya *hasta** ne:, mm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>Yeh name:chilihtok kwilo:t tikwiah de teswat wa:n de yo:n koyo:lin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>wa:n yehwa yo:n, ne:n, seki kowtsitsi:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>Yehwa yo:n tikwiah, i..., kowtsitsi:n ihkwi:ntsitsi:n,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>ihkwi:ntsitsi:n kowtsitsi:n tikwiah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>A:mo tikwiah ke:meh i:n pata:wak *porque** yo:n *deveras** nikaktoya de n' ala:wakkowit ....</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>Yo:n *solamente**, yo:nkitekih para, ne:n, yo:n ekintsi:n kitekih yo:n, *antes** a:mo kitekiah ika ne:n</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>*motosierra**. Ekintsi:n kitekih yo:ni, pero yo:n *solamente** de n' para ....</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>*Anteriormente** nehwa nikitak yehwa yo:n koyo:lin,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>teswakowit wa:n yo:n seki chichili:yoh kiliah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE>*Siempre** n' kowit tikwiah, tihk..., tikwiah ihkwí:n pihpitsa:wak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>Tiktekpa:ntia:yah ihkwí:n, ihkwí:n tiktekpa:ntia:yah ihkó:n, ihko:ni, ihko:ni, ihko:ni.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE>Ihkwí:n tiktekpa:ntia:yah de ompa ke:mah ompa ya:ya ya ihkó:n ne:n pesma.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+                <ANNOTATION_VALUE>Ihkó:n pesma tikilpihtia:yah nika:n i:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+                <ANNOTATION_VALUE>*Lo mismo** ke:meh ne:n owasakat wa:n ke:meh sakani:nyoh.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE>Ke:mah tikta:lia:yah ihkó:n, ihkó:n, ihkó:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>Pero yehwa yo:n ko..., kowit tik..., name:chilia kapolkowit, pihpitsa:wak.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+                <ANNOTATION_VALUE>Ke:mah, a:mo tohtoma:wak, nió:n no:, nió:n no: ke:meh i:n tatek.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE>Ta: yehwa yo:n tikta:lia:yah, ihkó:n tikilpihtia:yah, ihkó:n tikilpihtia:yah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+                <ANNOTATION_VALUE>Tikilpia:yah ika yo:n tikiliah peto:lmekat</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE>wa:n tata:wikmekat yehwa yo:n tikilpia:yah</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+                <ANNOTATION_VALUE>*o** yo:n kwetaxmekat, yo:n ekintsi:n tikiliah to:to:kowe:wat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>Yehwa nihjó:n nochi ika tikilpia:yah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts159">
+                <ANNOTATION_VALUE>De e:yi taman komekat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>No: tikiliayah seki pahpata:wak yo:n kwetax..., kwetaxkolmekat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts165">
+                <ANNOTATION_VALUE>No: onkak seki ihkwí:n pa:pata:wak, no: ika tikilpia:yah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
+                <ANNOTATION_VALUE>Onkak ekintsi:n ok.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
+                <ANNOTATION_VALUE>Onkak pos neh ninemi ne:wí:n kowtah nochi nikitstinemi katí:n ne:n kwaltia para kali, ke:mah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
+                <ANNOTATION_VALUE>Nihjó:n na:wi *lad**..., na:wi komekat ika tikilpia:yah tehwa:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
+                <ANNOTATION_VALUE>*O** bo..., yo:n tikiliah tehwa:n ekintsi:n poposokani, ni..., ni..., pitsa:wak no: kwaltia.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
+                <ANNOTATION_VALUE>De ekintsi:n kikwih para ne:n *ar..., artesanias**.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>Tein tama:chihchi:walis, yehwa yo:n no:, no: kwaltia ne:n tein pihpitsa:wak, yehwa yo:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts182" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>Pos nhjó:n.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts189">
+                <ANNOTATION_VALUE>Pané: yehwa sah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>Pos nehwa nimono:tsa Anastacio Nicolás Damián.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>Ninemi, nik..., ni..., ninemik nika:n Tozán, Jonotla.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts199">
+                <ANNOTATION_VALUE>pero ekintsi:n ninemi nika:n Xopanaco, San Miguel Tzinacapan, mm.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="CommentType" PARTICIPANT="Comments" TIER_ID="Comments">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>{Quizá quiso decir 'nikitani'}</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>{Eso es, antes usaban madera que era ancha como ahora porque antes no había motosierra ni sierra}</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>{Aquí indicando que el ala:wakkowit ahora la corta ('ekintsi:n kitekih') con motosierra}</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>{kwitaxkolmekat}</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="TurnType" PARENT_REF="Sections" TIER_ID="Turns">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián + Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara + Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara + Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts177">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts183">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts187">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara + Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts191">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>Anastacio Nicolás Damián</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts201">
+                <ANNOTATION_VALUE>Amelia Domínguez Alcántara</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="UtteranceType" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="SectionTypeCV" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="SectionType" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="TurnType" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ModeType" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="FidelityType" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ChannelType" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="BackgroundType" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="CommentType" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="EN" LANGUAGE_CODE="us"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="TurnModeCV">
+        <DESCRIPTION LANG_REF="und">All values that are allowed for Transcriber Turn.mode attribute</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">spontaneous</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">planned</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="TurnFidelityCV">
+        <DESCRIPTION LANG_REF="und">All values that are allowed for Transcriber Turn.fidelity attribute</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">high</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">medium</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">low</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="SectionTypeCV">
+        <DESCRIPTION LANG_REF="und">All values that are allowed for Transcriber Section.type attribute</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">report</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">nontrans</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">filler</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="TurnChannelCV">
+        <DESCRIPTION LANG_REF="und">All values that are allowed for Transcriber Turn.channel attribute</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">telephone</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="" LANG_REF="und">studio</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
