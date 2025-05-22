@@ -18,6 +18,7 @@ mayan_one_second_without_maasab_corpus: Contains all the one second clips from t
 ### nahuatl
 nahuatl_ten_seconds: Contains all the ten seconds clips from the selected audios
 nahuatl_one_second: Contain all the one second clips from the ten seconds clips
+chosen_one_speaker_audios.txt: Contains the info about the audios selected from the original corpus after separating the speakers into different channels that were after clipped and stored in the folder nahuatl_ten_seconds
 
 ### spanish
 original: Contains the original audio files before any kind of processing
@@ -44,7 +45,7 @@ Graphs are separated into folders with the name of the languages the training wa
 Graphs are identified as [ID_Exp]_plot and [ID_Exp]_matrix, where [ID_Exp] is the unique identifier of the experiment according to the experiment log (log.csv)
 
 ## Pueble-Nahuatl-Manifest
-Contains all the documentation for the Puebla-Nahuatl corpus
+Contains all the official documentation for the Puebla-Nahuatl corpus
 
 ## log.csv
 Log containing relevant details of the experiments, the fields are the following:
@@ -86,49 +87,36 @@ The Yucatec Maya DoReCo dataset was compiled by Stavros Skopeteas in 2015 and fu
 
 ## Nahuatl
 Puebla-Nahuatl (https://www.openslr.org/92) [6]
-Documentation about this corpus can be found in the folder
+Documentation about this corpus can be found in the folder Pueble-Nahuatl-Manifest
+The audios used in the training were all taken from the "Medicina_79" subfolder from the original corpus, resulting in 79 audios, most of these audios have two speakers, each one recorded in a different channel, so the audios were separated into two (one for each channel) using Audacity
+Audio length was between one minute to more than one hour, so using "Pueble-Nahuatl-Manifest\Metadata\Metadata_Cuetzalan-954-Recordings.xml" some audios were selected based on gender and length to be clipped into 10 seconds clips. This resulted in a total of 1747 clips, by checking "chosen_one_speaker_audios.txt" from the audios/nahuatl subfolder is possible to know which audios were chosen to clip into 10 seconds. 
 
-
-## Audio length
-
-For both languages, audio length was kept between 3 and 15 seconds, audios longer than 15 seconds were divided into several clips, this division was done using the code found in "split_audios.py"  
-
-# Spectrograms
-A total of 3820 were generated and used in the training, 2215 from mexican spanish audios and 1705 from yucatec maya audios.
-All spectrograms can be found in the "spanish_spectrograms" and "mayan_spectrograms" folders
 
 # Model training
 
 The file "Audio Classification (CNN).ipynb" found in the repository contains all the necessary code to perform the training once the audio data has been collected. The contents of the notebook include an adaptation and some additional functions based on the one found at https://github.com/jeffprosise/Deep-Learning/blob/master/Audio%20Classification%20(CNN).ipynb [5].
 
-Although the "Audio Classification (CNN).ipynb" file describes the procedure for a single model, three separate training processes were carried out using a different base model for each. The currently used base model can be identified by examining the following code snippet:
+Although the "Audio Classification (CNN).ipynb" file describes the procedure for a single model, is possible to use different models for the training process. The current base model can be identified by examining the following code snippet:
 
 
-```from tensorflow.keras.applications import MobileNetV2
-from tensorflow.keras.applications.mobilenet import preprocess_input
-
-base_model = MobileNetV2(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
-```
-
-
-In the previous code snippet, MobileNetV2 is used as the base model. The other two base models used were ResNet50 and ResNet152.
-To perform training with these base models, the previous code snippet should be replaced with one of the following, depending on the base model to use:
-
-```from tensorflow.keras.applications import ResNet50
+```from tensorflow.keras.applications import ResNet152V2
 from tensorflow.keras.applications.resnet import preprocess_input
 
-base_model = ResNet50(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
+base_model = ResNet152V2(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
 ```
 
-```from tensorflow.keras.applications import ResNet152
-from tensorflow.keras.applications.resnet import preprocess_input
+To perform training with other base models, it's necessary to change the imports
+"ResNet152V2"
+where it can be replaced with any of the official keras models list found in : https://keras.io/api/applications/ [7]
+and "tensorflow.keras.applications.resnet" where "resnet" has to be replaced according to the model used and the offical keras applications list: https://www.tensorflow.org/api_docs/python/tf/keras/applications [8]
 
-base_model = ResNet152(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
-```
 
-# Referencias
+# References
 [1] Mukherjee, H., Ghosh, S., Sen, S., Sk Md, O., Santosh, K. C., Phadikar, S., & Roy, K. (2019). Deep learning for spoken language identification: Can we visualize speech signal patterns?. Neural Computing and Applications, 31, 8483-8501. 
 [2] Ciempiess-unam. Retrieved from https://ciempiess.org/downloads 
 [3] T’aantsil. Retrieved from https://taantsil.com.mx/ 
 [4] Skopeteas, Stavros, Amedee Colli Colli, Daniela Schellenbach, Carolin Brokmann, Florian Fischer and Maya Gálvez Wimmelmann. 2024. Yucatec Maya DoReCo dataset. In Seifart, Frank, Ludger Paschen and Matthew Stave (eds.). Language Documentation Reference Corpus (DoReCo) 2.0. Lyon: Laboratoire Dynamique Du Langage (UMR5596, CNRS & Université Lyon 2). (https://doi.org/10.34847/nkl.9cbb3619). 
 [5] Jeff Prosise (2021). Deep-Learning [Software]. GitHub. https://github.com/jeffprosise/Deep-Learning/blob/master/Audio%20Classification%20(CNN).ipynb 
+[6]  Highland Puebla Nahuatl speech translation corpus for endangered language documentation. Shi, Jiatong and Amith, Jonathan D and Chang, Xuankai and Dalmia, Siddharth and Yan, Brian and Watanabe, Shinji. Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas. 53--63, 2021
+[7] Keras. Retrieved from https://keras.io/api/applications/
+[8] Tensorflow. Retrieved from https://www.tensorflow.org/api_docs/python/tf/keras/applications
