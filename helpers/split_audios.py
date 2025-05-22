@@ -1,7 +1,7 @@
 import os
 from pydub import AudioSegment
 
-def split_audio(input_audio, output_folder, clip_length=5000):
+def split_audio(input_audio, output_folder, clip_length):
     audio = AudioSegment.from_wav(input_audio)
     
     if not os.path.exists(output_folder):
@@ -22,17 +22,18 @@ def split_audio(input_audio, output_folder, clip_length=5000):
         output_path = os.path.join(output_folder, f'{filename}_clip_{i + 1}.wav')
         
         # Save clip
-        if len(clip) == 1000: #milliseconds
+        if len(clip) == 10000: #milliseconds
             clip.export(output_path, format='wav')
             print(f'Clip guardado: {output_path}')
 
 
-input_folder = 'audios/spanish/spanish_no_silence'
-output_folder = 'audios/spanish/spanish_one_second'
+input_folder = ''
+output_folder = ''
+clip_length = 10000
 for file in os.listdir(input_folder):
     file_path = os.path.join(input_folder, file)
 
     if file.lower().endswith('.wav'):
         input_audio = file_path
-        split_audio(input_audio, output_folder)
+        split_audio(input_audio, output_folder, clip_length)
 

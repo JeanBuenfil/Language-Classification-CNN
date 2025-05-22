@@ -1,14 +1,73 @@
-# Language-Classification-CNN-
+# Language-Classification-CNN
 
 This repository contains the methodology employed to train a image classification model, with the goal of language classification (specifically mexican spanish and mayan).
 This methodology includes deciding the use of image classification, getting the audios and relevant code for audio management and training
+
+# Folder Structure
+## audios
+Contains the audio files used in the different experiments separated into the different languages
+NOTE: Due to github's file size restrains, nahuatl audios before clipping couldn't be included in the repository, the link to the original corpus and the processing done to it can be found in a following section
+
+### mayan
+original: Contains the original audio files before any kind of processing besides from clipping
+audios_maasab_with_silence: Contains the audios from the Maasab corpus
+audios_maasab_no_silence: Contains the audios from the Maasab corpus after using the audacity macro "trim_silence_audacity.txt" to remove the silence
+mayan_one_second: Contains all the one second clips from the original audios
+mayan_one_second_without_maasab_corpus: Contains all the one second clips from the original audios excluding the ones from the maasab corpus
+
+### nahuatl
+nahuatl_ten_seconds: Contains all the ten seconds clips from the selected audios
+nahuatl_one_second: Contain all the one second clips from the ten seconds clips
+
+### spanish
+original: Contains the original audio files before any kind of processing
+spanish_no_silence: Contains the audios after using the audacity macro "trim_silence_audacity.txt" to remove the silence
+spanish_no_silence_without_maasab: Contains the audios after using the audacity macro "trim_silence_audacity.txt" to remove the silence excluding the ones from the maasab corpus
+
+## spectrograms
+Contains the spectrograms used in the different experiments separated into the different languages
+
+Every audio folder has its corresponding spectrogram folder
+
+## helpers
+Contains a variety of scripts/macros to help modify audio
+
+remove_silence.py: Removes the silence from the audios using the Librosa library
+split_audios.py: Splits the audios given a specific length
+trim_silence_audacity.txt: Macro than can be imported into the software "Audacity" to remove the silence from the audios 
+
+NOTE: Is recommended to use trim_silence_audacity.txt over remove_silence.py to remove silences as it was more effective during the experiments.
+
+## graphs
+Contains the confusion matrix and plot of the training of most of the experiments
+Graphs are separated into folders with the name of the languages the training was done for
+Graphs are identified as [ID_Exp]_plot and [ID_Exp]_matrix, where [ID_Exp] is the unique identifier of the experiment according to the experiment log (log.csv)
+
+## Pueble-Nahuatl-Manifest
+Contains all the documentation for the Puebla-Nahuatl corpus
+
+## log.csv
+Log containing relevant details of the experiments, the fields are the following:
+ID_Exp: Unique auto incremental identifier for every experiment
+Hash: Unique hash generated from the different parameters used in the experiment
+Languages: List of languages included in the experiment
+Model: Model used in the training
+Audio_Length: Audio lenght of every audio (if audio length wasn't standarized the field is left blank)
+Image_Amount: Number of image for every language included in the experiment
+Parameters: Variety of parameters that can be ajusted for every experiment (audio frecuency, learning rate, batch size, etc.)
+Split_Seed: Seed used at the moment of splitting the images into training and testing
+hasSilence: "True" if audios weren't processed to remove the silence, "False" if the silence was removed from the audios
+Results: Acuraccy, Recall, Precision and F1 values of the experiment
+Audio_Folders_Used: List of paths to the audio folders used in the experiment 
+Notes: Additional observations
+
+All fields except for Notes are recorded automatically when following the training process as stated in "Audio Classification (CNN).ipynb"
 
 # Image classification
 
 The training was done using the spectograms images extracted from the audios, the reason why spectrograms were used is because working with them it means there is no need for annotations or transcriptions, and previous works using this characteristic exist [1].
 
-# Audio files
-The audios used in the training can be found in the "Spanish" and "Mayan" folders, however, due to permission issues, not all of the audios are included.
+# Corpora
 The public domain audios can be found in the following sources:
 
 ## Mexican Spanish
@@ -17,13 +76,18 @@ The CIEMPIESS BALANCE is a Radio Corpus designed to create acoustic models for a
 The CB is made up by 8555 audio files with transcripts. 2447 of those files (28.6%) come from male speakers and 6108 files (71.39%) come from female speakers.
 1317 audio files were selected at random from the original 8555 while trying to keep a balance between male and female speakers, resulting in 778 audio files with female speakers and 539 audio files from male speakers. 
 
-## Maya
+## Mayan
 T'aantsil (https://taantsil.com.mx/) [3].
 The T’aanTsil is an audio corpus in the Yucatec Maya language, created with the aim of supporting the development of speech technologies for indigenous languages. It is part of a broader effort to document and preserve native languages through digital resources.
 
 
 Yucatec Maya DoReCo (https://sharedocs.huma-num.fr/wl/?id=OEm80dNUe88cfpejRnhmFE5IIFeGdCp9) [4]. 
 The Yucatec Maya DoReCo dataset was compiled by Stavros Skopeteas in 2015 and further processed for DoReCo by Alejandra Camelo Cruz, Ludger Paschen, and Matthew Stave between 2019 and 2022. The files that the Yucatec Maya DoReCo dataset are based on are part of a larger collection of Stavros Skopeteas's Yucatec Maya data that is archived at TLA (https://hdl.handle.net/1839/00-0000-0000-0021-E91B-F). This dataset is made up by 10 audios files, with a length between 6 and 13 minutes, splitting the audios resulted in a total of 792 clips used in the training.
+
+## Nahuatl
+Puebla-Nahuatl (https://www.openslr.org/92) [6]
+Documentation about this corpus can be found in the folder
+
 
 ## Audio length
 

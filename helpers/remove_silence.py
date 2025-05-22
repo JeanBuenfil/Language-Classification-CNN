@@ -20,9 +20,9 @@ def process_folder(input_dir, output_dir, top_db):
                 y, sr = librosa.load(input_path, sr=None)
                 y_trimmed = trim_all_silences(y, top_db=top_db)
                 sf.write(output_path, y_trimmed, sr)
-                print(f"Procesado: {filename}")
+                print(f"Processed: {filename}")
             except Exception as e:
-                print(f"Error con {filename}")
+                print(f"Error with {filename}")
 
 input_folder = ""
 output_folder = ""
