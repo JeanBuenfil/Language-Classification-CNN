@@ -22,7 +22,7 @@ def split_audio(input_audio, output_folder, clip_length=5000):
         output_path = os.path.join(output_folder, f'{filename}_clip_{i + 1}.wav')
         
         # Save clip
-        if len(clip) == 1000: #microseconds
+        if len(clip) == 1000: #milliseconds
             clip.export(output_path, format='wav')
             print(f'Clip guardado: {output_path}')
 
