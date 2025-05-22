@@ -99,7 +99,8 @@ The file "Audio Classification (CNN).ipynb" found in the repository contains all
 Although the "Audio Classification (CNN).ipynb" file describes the procedure for a single model, is possible to use different models for the training process. The current base model can be identified by examining the following code snippet:
 
 
-```from tensorflow.keras.applications import ResNet152V2
+```
+from tensorflow.keras.applications import ResNet152V2  
 from tensorflow.keras.applications.resnet import preprocess_input
 
 base_model = ResNet152V2(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
